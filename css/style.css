@@ -1,6 +1,36 @@
-p {
-    width: 100px;
-    height: 50px;
-    padding: 20px;
-    border: 1px solid;
+h1 {
+    color: green;
+    font-size: 30px;
+    font-weight: normal;
+    text-decoration: underline;
+    text-transform: title case;
+    border: 2px dotted pink;
 }
+
+div {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic; 
+    border: 2px dashed green;
+}
+
+p {
+    color: brown;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    ol {
+        list-style: bullet;
+    }
+    ul {
+        list-style: lower-roman;
+    }
+    h2 {
+        color: green;
+        border: dashed;
+    }
+
+    .Branding {
+        color: red;
+    }

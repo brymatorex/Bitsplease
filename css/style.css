@@ -1,4 +1,4 @@
-h1 {
+.about {
     color: green;
     font-size: 30px;
     font-weight: normal;
@@ -7,13 +7,15 @@ h1 {
     border: 2px dotted pink;
 }
 
-div {
+.definition {
     color: red;
     font-size: 20px;
     font-weight: bold;
-    font-style: italic; 
+    font-style: normal; 
     border: 2px dashed green;
 }
+
+
 
 p {
     color: brown;
@@ -31,6 +33,18 @@ p {
         border: dashed;
     }
 
-    .Branding {
+    h1.first-head {
         color: red;
+        font-: upper-case;
+    }
+    h1.first-day {
+        color: blue;
+    }
+
+    .first-day{
+        color: pink;
+    }
+
+    .first-day.week {
+        color: brown;
     }
